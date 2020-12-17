@@ -6,6 +6,10 @@ A barebones PHP web page.
 
 1. Create a [Heroku][heroku] account.
 2. Install the [Heroku Command Line Interface (CLI)][heroku-cli].
+
+   > macOS users should install [Homebrew][homebrew], a package manager for
+   > macOS, in order to have the `brew` command mentioned in the Heroku CLI
+   > installation instructions.
 3. Clone this repository:
 
    ```bash
@@ -32,3 +36,4 @@ A barebones PHP web page.
 
 [heroku]: https://www.heroku.com
 [heroku-cli]: https://devcenter.heroku.com/articles/heroku-cli
+[homebrew]: https://brew.sh
