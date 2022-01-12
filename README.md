@@ -28,10 +28,10 @@ A barebones PHP web page.
      cd php-hello-world-from
      heroku git:remote -a my-app-name
      ```
-5. Deploy the application to Heroku by pushing the `master` branch:
+5. Deploy the application to Heroku by pushing the `main` branch:
 
    ```bash
-   git push heroku master
+   git push heroku main
    ```
 
 [heroku]: https://www.heroku.com
