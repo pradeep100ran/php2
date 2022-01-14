@@ -25,7 +25,7 @@ A barebones PHP web page.
    * Or from the Heroku dashbord, then add the remote:
 
      ```bash
-     cd php-hello-world-from
+     cd php-hello-world-form
      heroku git:remote -a my-app-name
      ```
 5. Deploy the application to Heroku by pushing the `main` branch:
